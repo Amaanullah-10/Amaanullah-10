@@ -1,3 +1,4 @@
+<img align="center" src="https://oyster.ignimgs.com/wordpress/www.ign.com/2097/2011/11/Matrix-banner.jpg">
 <h1 align="center">Hi 👋, I'm Amaanullah</h1>
 <h3 align="center">A passionate full stack developer from India. Love to work in the domains of Blockchain,MERN,.NET and front end web development. Always looking for great opportunities and people.</h3>
 - 🌱 I’m currently learning **React,.NET,MERN**
