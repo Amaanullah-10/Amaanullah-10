@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amaanullah</h1>
 <h3 align="center">A passionate full stack developer from India. Love to work in the domains of Blockchain,MERN,.NET and front end web development. Always looking for great opportunities and people.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 - 🌱 I’m currently learning **React,.NET,MERN**
 
 - 📫 How to reach me **amaanullah60@gmail.com**
